@@ -3,15 +3,9 @@
   <PropertyGroup>
     <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="Player\PlayerLib.csproj" />
-    <ProjectReference Include="Weapon\Weapon.csproj" />
-  </ItemGroup>
 
 </Project>

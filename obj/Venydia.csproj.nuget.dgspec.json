@@ -4,14 +4,14 @@
     "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Venydia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Library\\Library.csproj": {
+    "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Library\\Library.csproj",
-        "projectName": "Library",
-        "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj",
+        "projectName": "PlayerLib",
+        "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj",
         "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Library\\obj\\",
+        "outputPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,10 +93,73 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Library\\Library.csproj": {
-                "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Library\\Library.csproj"
+              "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj": {
+                "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj"
+              },
+              "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj": {
+                "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj"
               }
             }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj",
+        "projectName": "Weapon",
+        "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj",
+        "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
           }
         },
         "warningProperties": {

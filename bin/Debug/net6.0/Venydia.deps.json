@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Venydia/1.0.0": {
+        "dependencies": {
+          "PlayerLib": "1.0.0",
+          "Weapon": "1.0.0"
+        },
+        "runtime": {
+          "Venydia.dll": {}
+        }
+      },
+      "PlayerLib/1.0.0": {
+        "runtime": {
+          "PlayerLib.dll": {}
+        }
+      },
+      "Weapon/1.0.0": {
+        "runtime": {
+          "Weapon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Venydia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayerLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Weapon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

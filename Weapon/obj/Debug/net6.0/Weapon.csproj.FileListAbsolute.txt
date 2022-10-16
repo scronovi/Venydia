@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\bin\Debug\net6.0\Weapon.deps.json
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\bin\Debug\net6.0\Weapon.dll
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\bin\Debug\net6.0\Weapon.pdb
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\obj\Debug\net6.0\Weapon.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\obj\Debug\net6.0\Weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\obj\Debug\net6.0\Weapon.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\obj\Debug\net6.0\Weapon.dll
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\obj\Debug\net6.0\refint\Weapon.dll
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\obj\Debug\net6.0\Weapon.pdb
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Weapon\obj\Debug\net6.0\ref\Weapon.dll

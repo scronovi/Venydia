@@ -1,46 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "PlayerLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/PlayerLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/PlayerLib.dll": {}
-        }
-      },
-      "Weapon/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Weapon.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Weapon.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "PlayerLib/1.0.0": {
-      "type": "project",
-      "path": "Player/PlayerLib.csproj",
-      "msbuildProject": "Player/PlayerLib.csproj"
-    },
-    "Weapon/1.0.0": {
-      "type": "project",
-      "path": "Weapon/Weapon.csproj",
-      "msbuildProject": "Weapon/Weapon.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "PlayerLib >= 1.0.0",
-      "Weapon >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Tim\\.nuget\\packages\\": {},
@@ -49,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Venydia.csproj",
-      "projectName": "Venydia",
-      "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Venydia.csproj",
+      "projectUniqueName": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj",
+      "projectName": "Weapon",
+      "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj",
       "packagesPath": "C:\\Users\\Tim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\obj\\",
+      "outputPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +39,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj": {
-              "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj"
-            },
-            "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj": {
-              "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

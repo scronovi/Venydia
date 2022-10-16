@@ -5,6 +5,15 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venydia", "Venydia.csproj", "{24ACF8CD-175C-42E0-9126-C09DF3ABBD3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerLib", "Player\PlayerLib.csproj", "{DF274211-58F0-42F8-A8B6-BDF6B243F87E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weapon", "Weapon\Weapon.csproj", "{693DD699-389F-401B-8016-BB99B9401377}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EED8CB14-3F20-4EFB-B915-C43561CA6D05}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +24,14 @@ Global
 		{24ACF8CD-175C-42E0-9126-C09DF3ABBD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24ACF8CD-175C-42E0-9126-C09DF3ABBD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24ACF8CD-175C-42E0-9126-C09DF3ABBD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF274211-58F0-42F8-A8B6-BDF6B243F87E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF274211-58F0-42F8-A8B6-BDF6B243F87E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF274211-58F0-42F8-A8B6-BDF6B243F87E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF274211-58F0-42F8-A8B6-BDF6B243F87E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693DD699-389F-401B-8016-BB99B9401377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693DD699-389F-401B-8016-BB99B9401377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693DD699-389F-401B-8016-BB99B9401377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693DD699-389F-401B-8016-BB99B9401377}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

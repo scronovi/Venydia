@@ -1,0 +1,10 @@
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\bin\Debug\net6.0\PlayerLib.deps.json
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\bin\Debug\net6.0\PlayerLib.dll
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\bin\Debug\net6.0\PlayerLib.pdb
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\obj\Debug\net6.0\PlayerLib.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\obj\Debug\net6.0\PlayerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\obj\Debug\net6.0\PlayerLib.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\obj\Debug\net6.0\PlayerLib.dll
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\obj\Debug\net6.0\refint\PlayerLib.dll
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\obj\Debug\net6.0\PlayerLib.pdb
+C:\Users\Tim\Desktop\Programmering\Projects\Venydia\Player\obj\Debug\net6.0\ref\PlayerLib.dll
