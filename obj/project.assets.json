@@ -11,16 +11,6 @@
         "runtime": {
           "bin/placeholder/PlayerLib.dll": {}
         }
-      },
-      "Weapon/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/Weapon.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Weapon.dll": {}
-        }
       }
     }
   },
@@ -29,17 +19,11 @@
       "type": "project",
       "path": "Player/PlayerLib.csproj",
       "msbuildProject": "Player/PlayerLib.csproj"
-    },
-    "Weapon/1.0.0": {
-      "type": "project",
-      "path": "Weapon/Weapon.csproj",
-      "msbuildProject": "Weapon/Weapon.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "PlayerLib >= 1.0.0",
-      "Weapon >= 1.0.0"
+      "PlayerLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -77,9 +61,6 @@
           "projectReferences": {
             "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj": {
               "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Player\\PlayerLib.csproj"
-            },
-            "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj": {
-              "projectPath": "C:\\Users\\Tim\\Desktop\\Programmering\\Projects\\Venydia\\Weapon\\Weapon.csproj"
             }
           }
         }
