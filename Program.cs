@@ -30,14 +30,7 @@ class Program
 
 
 		// Roll a dice 1-100
-		// if player 1 rolls higher then attack == true
-
-		/*
-		player1.Roll();
-		
-		//REMOVE
-		*/
-		player1.isTurn = true;
+		player1.Roll(player1, player2);
 		// Fight
 		player1.Fight(player1, player2);
 		
